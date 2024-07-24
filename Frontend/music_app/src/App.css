@@ -1,0 +1,10 @@
+.add_button {
+  text-align: right;
+}
+
+.tr_color {
+  color: rgb(193, 166, 166);
+  background-color: #48c42c; /* You may want to update this to a music theme color */
+}
+
+/* Add additional styles as needed for the music app */
